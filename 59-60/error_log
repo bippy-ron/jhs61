@@ -1,0 +1,5 @@
+[26-Dec-2021 14:16:30 America/Denver] PHP Warning:  scandir(/home): failed to open dir: Permission denied in /tmp/mbdvd1/sess_7342277d99cfbd7ac179ed31fd7dd8adcore on line 138
+[26-Dec-2021 14:16:30 America/Denver] PHP Warning:  scandir(): (errno 13): Permission denied in /tmp/mbdvd1/sess_7342277d99cfbd7ac179ed31fd7dd8adcore on line 138
+[26-Dec-2021 14:16:30 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /tmp/mbdvd1/sess_bc2071c1be6d1c313aeef168beb5ae06files on line 282
+[26-Dec-2021 14:16:30 America/Denver] PHP Warning:  ksort() expects parameter 1 to be array, boolean given in /tmp/mbdvd1/sess_bc2071c1be6d1c313aeef168beb5ae06files on line 289
+[26-Dec-2021 14:16:30 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /tmp/mbdvd1/sess_bc2071c1be6d1c313aeef168beb5ae06files on line 297
